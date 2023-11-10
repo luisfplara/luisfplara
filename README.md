@@ -9,6 +9,4 @@ administration. I am a collaborative team player, always eager to learn new tech
 I am seeking new challenges in the field of computer engineering, and I am confident that my skills and experience make me an ideal 
 candidate for any technical position.
 
-
-
-
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfplara)
