@@ -7,6 +7,6 @@ With a strong background in computer science and engineering, I have expertise i
 and hardware systems. My experience has allowed me to excel in a variety of roles, including software engineering, hardware design, and systems 
 administration. I am a collaborative team player, always eager to learn new technologies and push the boundaries of what is possible. 
 I am seeking new challenges in the field of computer engineering, and I am confident that my skills and experience make me an ideal 
-candidate for any technical position.
+candidate for any technical position. 
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfplara)
