@@ -1,4 +1,4 @@
-[Turbodev](turbodev.azurewebsites.net](https://turbodev.tech/en)
+[Turbodev](https://turbodev.tech/en)
 
 Hello, I'm Luis 👨‍💻🤖
 
